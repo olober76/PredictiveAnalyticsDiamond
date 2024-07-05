@@ -35,7 +35,7 @@ Metrik digunakan untuk mengevaluasi seberapa baik model Anda dalam memprediksi h
 Membuat model prediktif dengan machine learning tentu memerlukan data. Berita baiknya adalah, perusahaan memiliki data yang dibutuhkan untuk membuat model prediksi. Dataset yang akan kita gunakan pada praktik kali ini adalah Diamond dataset.
 
 
--  Sumber dataset : ![Diamond Dataset Pricing, Revenue, etc.](https://github.com/tidyverse/ggplot2/tree/main/data-raw)
+-  Sumber dataset : [Diamond Dataset Pricing, Revenue, etc.](https://github.com/tidyverse/ggplot2/tree/main/data-raw)
 
 
 ## Explanatory Data Analytics
